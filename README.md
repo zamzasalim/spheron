@@ -6,8 +6,16 @@
   <img height="300" height="auto" src="https://user-images.githubusercontent.com/109174478/209359981-dc19b4bf-854d-4a2a-b803-2547a7fa43f2.jpg">
 </p>
 
-
 # SPHERON WORKER NODE INCENTIVE
+
+## Spek VPS
+
+|  Hardware/VPS |  Minimum |
+| ------------ | ------------ |
+| CPU  | 4 or more physical CPU cores  |
+| RAM | At least 8GB of memory (RAM) |
+| Penyimpanan  | At least 100GB of SSD disk storage |
+| Internet | At least 10mbps network bandwidth |
 
 ## Claim Faucet Arb Sepolia & Bridge to Spheron
 - [Faucet 1](https://faucet.quicknode.com/arbitrum/sepolia) | [Faucet 2](https://www.alchemy.com/faucets/arbitrum-sepolia) | [Faucet 3](https://faucets.chain.link/arbitrum-sepolia) | [Faucet 4](https://learnweb3.io/faucets/arbitrum_sepolia/)
