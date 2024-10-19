@@ -60,8 +60,9 @@
     ```
     docker-compose -f ~/.spheron/fizz/docker-compose.yml logs -f
     ```
-## Check Status Node
-**Back to web & Check. If Success your node ACTIVE**
+## Mint NFT & Check Status Node
+**Back to web for Mint NFT & Check your Node If Success your node ACTIVE**
+- Website : https://app.spheron.network/login
 <p align="center">
   <img height="300" height="auto" src="https://github.com/zamzasalim/spheron/blob/main/xxxxxxxx.png">
 </p>
